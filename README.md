@@ -1,5 +1,4 @@
-# amsterdamairbnb
-Amsterdam Airbnb Price Predictor
+#  Amsterdam Airbnb Price Predictor
 
 Problem Statement:
 Listing a property on Airbnb can be challenging for new renters, who must determine a fair nightly rate. Incorrect pricing can lead to lost revenue or missed bookings. Our project aims to address this by predicting optimal rental prices based on property characteristics.
